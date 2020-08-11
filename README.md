@@ -1,4 +1,12 @@
-# covid-19
+# 🦠 Covid-19 Simple Tracker
+
+Code for [Covtracker.tech](https://www.covtracker.tech/)
+
+![Image](https://static.dribbble.com/users/2421698/screenshots/13995231/media/4393f8d0832f9139b5e6b8ca613a4519.png)
+
+## Prerequisites
+
+Nuxt.js
 
 ## Build Setup
 
